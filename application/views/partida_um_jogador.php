@@ -242,6 +242,7 @@ else if (localStorage.sorteio == 13){
                   proxim.style.display = "none";
                   terminar.style.display = "block";
 
+
                  }
             }
             else if(respostas[i].value == resp){
